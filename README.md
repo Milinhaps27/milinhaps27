@@ -44,9 +44,9 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n�
 </br>
 </br>
 <div display="inline-block">
- <p align="right">🤿 Atualmente, procuro minha primeira oportunidade de emprego;</p>
- <p align="right">📚 Tenho estudado React e em breve React Native</br>(quero muito desenvolver um app que faça sentido pra alguém 😍);</p>
- <p align="right">👩‍❤️‍👨 Amo estar com minha família e assistir filme acompanhado de pipoca com coco e leite condensado 😝; </p>
+ <p align="left">🤿 Atualmente, procuro minha primeira oportunidade de emprego;</p>
+ <p align="left">📚 Tenho estudado React e em breve React Native</br>(quero muito desenvolver um app que faça sentido pra alguém 😍);</p>
+ <p align="left">👩‍❤️‍👨 Amo estar com minha família e assistir filme acompanhado de pipoca com coco e leite condensado 😝;</p>
 </div>
 
 
