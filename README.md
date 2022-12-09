@@ -1,4 +1,6 @@
 
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/camilapdsilva/camilapdsilva/blob/1f8e16fd3657474fcce0be804a6e82d3c213afe5/MilaFace_cropped-removebg-preview.png">
+
 <div dsplay="inline-block">
  
  <h1 align="left">Oiiiii, sou Camila Souza</h1>
@@ -13,7 +15,6 @@
 </br>
 </br>
 
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/camilapdsilva/camilapdsilva/blob/57fb25035c3c194f6363467e6893508eb99dfb89/caMILA%20sOUZA(1).png">
 
 ## Como tudo começou...
 
