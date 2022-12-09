@@ -27,6 +27,7 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n�
 </p>
 
 <img width="300px" align="left" src="https://github.com/camilapdsilva/camilapdsilva/blob/5fb54ec96c123921715098dfdd64f4eec312baa3/MilaBody-removebg-preview.png">
+</br>
 <h2 align="right">🖥️ Tecnologias e Ferramentas:</h2>
 </br>
 <code><img width="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -45,7 +46,7 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n�
 <div display="inline-block">
  <p align="right">🤿 Atualmente, procuro minha primeira oportunidade de emprego;</p>
  <p align="right">📚 Tenho estudado React e em breve React Native (quero muito desenvolver um app que faça sentido pra alguém 😍);</p>
- <p align="right">👩‍❤️‍👨 Amo estar com minha família e assistir filme comendo pipoca com coco e leite condensado 😝 </p>
+ <p align="right">👩‍❤️‍👨 Amo estar com minha família e assistir filme comendo pipoca com coco e leite condensado 😝; </p>
 </div>
 
 
