@@ -5,7 +5,7 @@
  
  <h1 align="left" style="color:#F7D6C3">Oiiiii, sou Camila Souza</h1>
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+em+forma%C3%A7%C3%A3o;com+uma+quedinha+pelo+Back-end)](https://git.io/typing-svg)
+<!--  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+em+forma%C3%A7%C3%A3o;com+uma+quedinha+pelo+Back-end)](https://git.io/typing-svg) -->
  
  <a href="https://www.instagram.com/milinhaps27/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
