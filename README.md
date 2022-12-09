@@ -26,7 +26,7 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n�
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
-<img width="300px" align="left" src="https://github.com/camilapdsilva/camilapdsilva/blob/5fb54ec96c123921715098dfdd64f4eec312baa3/MilaBody-removebg-preview.png">
+<img width="300px" align="left" src="https://github.com/camilapdsilva/camilapdsilva/blob/a6bb08447af001530c9963d7cc979f2b8c04444f/Milabod-removebg-preview(1).png">
 </br>
 
 ## 🖥️ Tecnologias e Ferramentas:
