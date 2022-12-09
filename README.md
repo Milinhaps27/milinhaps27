@@ -28,6 +28,7 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n√
 
 <img width="300px" align="left" src="https://github.com/camilapdsilva/camilapdsilva/blob/5fb54ec96c123921715098dfdd64f4eec312baa3/MilaBody-removebg-preview.png">
 <h2 align="right">üñ•Ô∏è Tecnologias e Ferramentas:</h2>
+</br>
 <code><img width="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -38,6 +39,7 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n√
 <code><img width="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
 
 
+</br>
 </br>
 </br>
 <div display="inline-block">
@@ -57,7 +59,7 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n√
 <a href="https://www.instagram.com/milinhaps27/" target="_blank"><img align="right" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/camilapdsilva/" target="_blank"><img align="right" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://portfolio-camilapdsilva.vercel.app/" target="_blank"><img align="right" alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
-
+</br>
 ##
 <p align="center">
 <a href="https://github.com/camilapdsilva">
