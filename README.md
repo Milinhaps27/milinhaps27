@@ -28,8 +28,9 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n�
 
 <img width="300px" align="left" src="https://github.com/camilapdsilva/camilapdsilva/blob/5fb54ec96c123921715098dfdd64f4eec312baa3/MilaBody-removebg-preview.png">
 </br>
-## 🖥️ Tecnologias e Ferramentas:
 
+## 🖥️ Tecnologias e Ferramentas:
+##
 </br>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
