@@ -54,9 +54,9 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n√
 
 </br>
 
-<a href="https://www.instagram.com/milinhaps27/" target="_blank"><img align="right" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/camilapdsilva/" target="_blank"><img align="right" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://portfolio-camilapdsilva.vercel.app/" target="_blank"><img align="right" alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+<a href="https://www.instagram.com/milinhaps27/" target="_blank"><img align="right" alt="Instagram" width="22px" src="https://github.com/camilapdsilva/camilapdsilva/blob/34fe1cbd28e8eef2ae5398da15f2dcffd9fa9b0d/instagram.png" />
+<a href="https://www.linkedin.com/in/camilapdsilva/" target="_blank"><img align="right" alt="LinkedIn" width="22px" src="https://github.com/camilapdsilva/camilapdsilva/blob/34fe1cbd28e8eef2ae5398da15f2dcffd9fa9b0d/logotipo-do-linkedin.png" />
+<a href="https://portfolio-camilapdsilva.vercel.app/" target="_blank"><img align="right" alt="Blog" width="22px" src="https://github.com/camilapdsilva/camilapdsilva/blob/34fe1cbd28e8eef2ae5398da15f2dcffd9fa9b0d/dev.png" /></a>
 </br>
 ##
 <p align="center">
