@@ -13,7 +13,7 @@
 </br>
 </br>
 
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/camilapdsilva/camilapdsilva/blob/57fb25035c3c194f6363467e6893508eb99dfb89/caMILA%20sOUZA(1).png">
 
 ## Como tudo começou...
 
