@@ -21,9 +21,9 @@ Tive meu primeiro contato com programação quando formei em Licenciatura em Inf
 
 Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender não somente as hard skills como HTML, CSS, JavaScript, React, NodeJs, Metodologias Ágeis, mas também as soft skills como: colaboração, empatia, escuta ativa, gestão do tempo e principalmente resiliência. ❤
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
+</p> -->
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
