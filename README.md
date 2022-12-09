@@ -28,22 +28,22 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n�
 
 <img width="300px" align="left" src="https://github.com/camilapdsilva/camilapdsilva/blob/5fb54ec96c123921715098dfdd64f4eec312baa3/MilaBody-removebg-preview.png">
 <h2 align="right">🖥️ Tecnologias e Ferramentas:</h2>
-<code><img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
-<code><img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
+<code><img width="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
+<code><img width="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
 
 
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 Atualmente, procuro minha primeira oportunidade de emprego;</p>
- <p align="left">📚 Tenho estudado React e em breve React Native (quero muito desenvolver um app que faça sentido pra alguém 😍);</p>
- <p align="left">👩‍❤️‍👨 Amo estar com minha família e assistir filme comendo pipoca com coco e leite condensado 😝 </p>
+ <p align="right">🤿 Atualmente, procuro minha primeira oportunidade de emprego;</p>
+ <p align="right">📚 Tenho estudado React e em breve React Native (quero muito desenvolver um app que faça sentido pra alguém 😍);</p>
+ <p align="right">👩‍❤️‍👨 Amo estar com minha família e assistir filme comendo pipoca com coco e leite condensado 😝 </p>
 </div>
 
 
@@ -54,9 +54,9 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n�
 
 </br>
 
-<a href="https://www.instagram.com/milinhaps27/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/camilapdsilva/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://portfolio-camilapdsilva.vercel.app/" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+<a href="https://www.instagram.com/milinhaps27/" target="_blank"><img align="right" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.linkedin.com/in/camilapdsilva/" target="_blank"><img align="right" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://portfolio-camilapdsilva.vercel.app/" target="_blank"><img align="right" alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
 ##
 <p align="center">
