@@ -51,7 +51,7 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n�
 <div display="inline-block">
  <p align="left">🤿 Atualmente, procuro minha primeira oportunidade de emprego;</p>
  <p align="left">📚 Tenho estudado React e em breve React Native (quero muito desenvolver um app que faça sentido pra alguém 😍);</p>
- <p align="left">👩‍❤️‍👨 Amo estar com minha família e assistir filme comendo pipoca, coco e leite condensado 😝 </p>
+ <p align="left">👩‍❤️‍👨 Amo estar com minha família e assistir filme comendo pipoca com coco e leite condensado 😝 </p>
 </div>
 
 
@@ -68,8 +68,8 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n�
 
 ##
 <p align="center">
-<a href="https://github.com/jeniblodev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/camilapdsilva">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=camilapdsilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=camilapdsilva&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
