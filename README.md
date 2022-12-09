@@ -27,7 +27,7 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n�
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://github.com/camilapdsilva/camilapdsilva/blob/5fb54ec96c123921715098dfdd64f4eec312baa3/MilaBody-removebg-preview.png">
+<img width="300px" align="left" src="https://github.com/camilapdsilva/camilapdsilva/blob/5fb54ec96c123921715098dfdd64f4eec312baa3/MilaBody-removebg-preview.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
