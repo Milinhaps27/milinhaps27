@@ -1,4 +1,3 @@
-<!-- <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
 
 <div dsplay="inline-block">
  
@@ -9,7 +8,7 @@
   <a href="https://www.linkedin.com/in/camilapdsilva/">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
-</div> -->
+</div>
 
 </br>
 </br>
