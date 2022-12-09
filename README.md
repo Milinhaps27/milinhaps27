@@ -30,7 +30,7 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n�
 </br>
 
 ## 🖥️ Tecnologias e Ferramentas:
-
+</br>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -40,8 +40,6 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n�
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TYPESCRIPT"/></code>
 
-
-</br>
 </br>
 </br>
 <div display="inline-block">
@@ -49,8 +47,6 @@ Escolhi a Trybe para me ajudar nesse processo e tem sido maravilhoso aprender n�
  <p align="left">📚 Tenho estudado React e em breve React Native</br>(quero muito desenvolver um app que faça sentido pra alguém 😍);</p>
  <p align="left">👩‍❤️‍👨 Amo estar com minha família e assistir filme acompanhado de pipoca com coco e leite condensado 😝;</p>
 </div>
-
-
 
 </br>
 
